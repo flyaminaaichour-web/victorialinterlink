@@ -1,0 +1,15 @@
+./about.html
+./commercial-umbrellas.html
+./contact.html
+./fencing-solutions.html
+./fixed-cabins.html
+./fuel-tanks.html
+./generators.html
+./hangar-manufacturing.html
+./hvac-systems.html
+./index.html
+./partners.html
+./scrap-management.html
+./services.html
+./spare-parts.html
+./trailers.html
